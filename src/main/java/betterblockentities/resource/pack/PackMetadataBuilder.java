@@ -1,4 +1,4 @@
-package betterblockentities.resource;
+package betterblockentities.resource.pack;
 
 /* gson */
 import com.google.gson.*;

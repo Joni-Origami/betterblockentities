@@ -1,4 +1,4 @@
-package betterblockentities.mixin;
+package betterblockentities.mixin.sodium;
 
 /* sodium */
 import net.caffeinemc.mods.sodium.client.render.frapi.render.AbstractBlockRenderContext;

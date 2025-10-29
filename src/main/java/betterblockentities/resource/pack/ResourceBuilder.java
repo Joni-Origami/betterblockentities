@@ -1,11 +1,10 @@
-package betterblockentities.resource;
+package betterblockentities.resource.pack;
 
 /* gson */
-import com.google.gson.*;
+import betterblockentities.resource.model.ModelGenerator;
 import net.minecraft.resource.*;
 
 /* java/misc */
-import java.io.*;
 import java.util.*;
 
 public class ResourceBuilder

@@ -1,4 +1,4 @@
-package betterblockentities.resource;
+package betterblockentities.resource.pack;
 
 /* java/misc */
 import java.io.*;
